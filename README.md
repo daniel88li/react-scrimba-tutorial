@@ -1,3 +1,5 @@
+**Code from a Scrimba react tutorial using create react app as base.**
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
